@@ -1,0 +1,8 @@
+{
+    "response": {
+        "result": [],
+        "message": "Data fetched successfully",
+        "uri": "/api/timetracker/getclients",
+        "status": 0
+    }
+}
